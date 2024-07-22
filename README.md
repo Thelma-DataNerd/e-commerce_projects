@@ -7,7 +7,7 @@
 - [Motivation](#Motivation)
 - [Problem_Solving_Steps](#Problem_Solving_Steps)
 
-<img src="https://github.com/Thelma-DataNerd/credit-card-fraud-prediction-with-machine-learning/blob/main/credit_card.jpg" width="500"/>
+<img src="https://github.com/Thelma-DataNerd/e-commerce_sales_analysis/blob/main/eCommerce-photo.jpg" width="500"/>
 
 
 
