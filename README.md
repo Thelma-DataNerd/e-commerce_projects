@@ -1,11 +1,8 @@
-# E-Commerce Sales Analysis with Python
+# E-Commerce Data Analysis & Machine Learning Projects
 
 ## Table of Contents
 - [Overview](#Overview)
-- [Objectives](#Objectives)
-- [Content](#Content)
-- [Motivation](#Motivation)
-- [Problem_Solving_Steps](#Problem_Solving_Steps)
+- [E-commerce Sales Analysis](#e_commerce_sales_analysis)
 
 <img src="https://github.com/Thelma-DataNerd/e-commerce_sales_analysis/blob/main/eCommerce-photo.jpg" width="500"/>
 
@@ -13,34 +10,26 @@
 
 
 ## Overview
-This project involves a comprehensive exploratory data analysis (EDA) of an e-commerce sales dataset. 
-The dataset contains information about product categories, pricing, review scores, review counts, and monthly sales figures. 
-The goal is to uncover insights and patterns that can inform business decisions and strategies
+This repository highlights a range of data analysis and machine learning projects tailored to the e-commerce sector. Through these projects, I explore customer patterns, product performance, and sales trends, while also developing predictive models that provide actionable insights for business growth and optimization.
 
-## Objectives
-- To clean and preprocess the e-commerce sales data for accurate analysis.
-- To explore and understand the distribution of product prices, review scores, and sales.
-- To identify trends and patterns in monthly sales data.
-- To analyze the relationship between different features such as price, review scores, and sales.
-- To provide visualizations that effectively communicate the findings.
+Each project is organized in its own folder and typically contains:
+- A brief project description, jupyter notebooks, dataset sources, Visualizations, Insights and key findings, presentation files.
 
-## Content
-The dataset consists of the following columns:
-- product_id
-- product_name
-- category
-- price
-- review_score
-- review_count
-- sales_month_1 to sales_month_12
-- Total_products_Sales
+---
+### E-commerce Sales Analysis
+- Objectivites: The goal of this analysis is to uncover insights and patterns that can guide business decisions and strategies. Specifically, it aims to:
+* Explore and understand the distribution of key features such as product prices, review scores, and sales, identify trends and patterns in monthly sales, analyze relationships between various features, provide visualizations and reports that clearly communicate the findin
+- Content: The dataset contains information about product id, product name, category, price, review score, review count, sales from month 1-12, Total products sales.
+- Motivation: In the competitive world of e-commerce, understanding sales trends, customer preferences and product performance is crucial. This project will leverage data analysis techniques to extract valuable insights from  the sales data, which can help businesses optimize their product offerings, pricing strategies, and marketing efforts.
+- Tools: Python, Pandas, NumPy, Matplotlib
+- Techniques: Data cleaning, EDA, Time series analysis, Visualization
+- Outcome:
+  * The prices of items are spread out over a significant range ($7.29 to 499.86), indicating variability in the prices.
+  * The most significant decline in sales occurred in May, with September experiencing the second-largest drop.
+  * Conversely, the highest sales were recorded in November, followed closely by February and then July, which were the next most successful months.
+  * Books, toys and sports items are the categories with the most engagement on a monthly basis.
+  
 
-## Motivation
-In the competitive world of e-commerce, understanding sales trends, customer preferences and
-product performance is crucial. This project aims to leverage data analysis techniques to extract 
-valuable insights from sales data, which can help businesses optimize their product offerings, pricing strategies, and marketing efforts.
 
-## Problem_Solving_Steps
-- Data Cleaning
-- EDA
-- Visualization
+
+
