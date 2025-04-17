@@ -27,7 +27,7 @@ Each project is organized in its own folder and typically contains:
   * The most significant decline in sales occurred in May, with September experiencing the second-largest drop.
   * Conversely, the highest sales were recorded in November, followed closely by February and then July, which were the next most successful months.
   * Books, toys and sports items are the categories with the most engagement on a monthly basis.
-  
+- Project link: https://github.com/Thelma-DataNerd/e-commerce_projects/blob/main/e_commerce_sales_analysis.ipynb
 
 
 
