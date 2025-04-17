@@ -2,7 +2,7 @@
 
 ### Table of Contents
 - [Overview](#Overview)
-- [E-commerce Sales Analysis](#e_commerce_sales_analysis)
+- [E-commerce Sales Analysis](#e-commerce-sales-analysis)
 
 <img src="https://github.com/Thelma-DataNerd/e-commerce_sales_analysis/blob/main/eCommerce-photo.jpg" width="500"/>
 
